@@ -44,7 +44,7 @@ Obraz z alternatywnym tekstem oraz podpisem
 Odnośnik zewnętrzny do innego serwisu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[RtD](https://ad-guziki.readthedocs.io/en/latest/)
+[RtD](https://ad-guziki.readthedocs.io/en/master/)
 
 Listy numerowana, wypunktowana, definicji
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
