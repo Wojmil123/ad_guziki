@@ -33,12 +33,18 @@ Fragment kodu (blokowy)
    }
 
 
-[Obraz](obraz.rst)
+Obraz z alternatywnym tekstem oraz podpisem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: xd.png
+   :alt: Tux
+   :align: center
+   :width: 300px
 
 Odnośnik zewnętrzny do innego serwisu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[RtD](http://www.example.com)
+[RtD](https://ad-guziki.readthedocs.io/en/latest/)
 
 Listy numerowana, wypunktowana, definicji
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
