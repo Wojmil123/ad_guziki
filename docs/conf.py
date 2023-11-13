@@ -13,8 +13,11 @@ release = '1.0'
 
 # Rozszerzenia Sphinx (opcjonalne)
 extensions = [
-    'sphinx.ext.autodoc',  # Automatyczna dokumentacja modułów
-    'sphinx.ext.napoleon',  # Obsługa docstringów w stylu NumPy
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
 ]
 
 # Ścieżki do plików źródłowych
