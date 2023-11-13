@@ -32,10 +32,8 @@ Fragment kodu (blokowy)
       new Window3();
    }
 
-Odnośnik lokalny do Read the Docs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[Obraz](obraz)
+[Obraz](obraz.rst)
 
 Odnośnik zewnętrzny do innego serwisu
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
